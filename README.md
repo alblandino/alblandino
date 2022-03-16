@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate.
 
-- 🌱 I’m currently learning Computer Vision with Tensorflow
+- 🌱 I’m currently learning: Blockchain Development with Rust
 
 - 📫 How to reach me **joel.alexander.jaime@gmail.com**
 
