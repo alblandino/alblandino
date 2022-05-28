@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **VideoGames, Read, Adventure and Family**
 
 <p align="center">
-<a href="https://twitter.com/alexblandinoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alblandino" height="35" width="35" /></a>
+<a href="https://twitter.com/alblandino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alblandino" height="35" width="35" /></a>
 <a href="https://linkedin.com/in/alblandino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alblandino" height="35" width="35" /></a>
 <a href="https://fb.com/alblandino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="onidnalbj" height="35" width="35" /></a>
 <a href="https://instagram.com/alexblandino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alexblandino" height="35" width="35" /></a>
