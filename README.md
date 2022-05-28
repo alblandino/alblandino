@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey 👋, I'm Joel (Alex) Blandino !!</h1>
-<h3 align="center">I'm a Remote Software Engineer from the Dominican Republic ☀️ 🌴</h3>
+<h3 align="center">I'm a Remote Software Engineer ☀️ 🌴</h3>
 <hr/>
 
 - 👯 I’m looking to collaborate.
