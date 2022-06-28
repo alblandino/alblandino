@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: Blockchain Development with Rust
 
-- 📫 How to reach me **joel.alexander.jaime@gmail.com**
+- 📫 How to reach me https://alblandino.dev
 
 - ⚡ Fun fact **VideoGames, Read, Adventure and Family**
 
