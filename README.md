@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: Blockchain Development with Rust
 
-- 📫 How to reach me https://alblandino.dev
+- 📫 How to reach me https://alblandino.com
 
 - ⚡ Fun fact **VideoGames, Read, Adventure and Family**
