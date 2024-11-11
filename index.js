@@ -21,7 +21,7 @@ const readme = `
 <h2>⚡️A Few Quick Facts</h2>
 <img style="width: 25%" align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
-<li>🔭 I’m currently working on <a href="https://chicksx.com/">ChicksX, Inc</a>.</li>
+<li>🔭 I’m currently working on <a href="https://chicksx.com/">ChicksX</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>Blockchain</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/alblandino">Github</a>.</li>
 <li>📝 I <del>regulary</del> read a lot of books about finance.</li>
