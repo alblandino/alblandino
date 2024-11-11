@@ -4,7 +4,7 @@
 <p><a href="https://alblandino.com"><img src="https://img.shields.io/badge/-alblandino.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://alblandino.com" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/alblandino/"><img src="https://img.shields.io/badge/-@alblandino-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/alblandino/" alt="LinkedIn Badge"></a></p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <h2>⚡️A Few Quick Facts</h2>
-<img style="width: 50%" align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img style="width: 25%" align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
 <li>🔭 I’m currently working on <a href="https://chicksx.com/">ChicksX</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>Blockchain</strong>.</li>
@@ -41,5 +41,5 @@
 <hr />
 ⏳ Year progress { █████████████████████████▁▁▁▁▁ } 86.34 %
 <hr />
-⏰ Updated on: Mon, 11 Nov 2024 23:43:29 GMT
+⏰ Updated on: Mon, 11 Nov 2024 23:57:55 GMT
 
