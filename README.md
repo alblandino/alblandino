@@ -39,13 +39,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 <hr />
-⏳ Year progress { █████████████████████████▁▁▁▁▁ } 86.55 %
+⏳ Year progress { █████████████████████████▁▁▁▁▁ } 86.56 %
 <hr />
-⏰ Updated on: Tue, 12 Nov 2024 18:21:28 GMT
+⏰ Updated on: Tue, 12 Nov 2024 19:15:05 GMT
 <hr />
 <p>
-    <a href="http://hits.dwyl.com/alblandino/alblandino/alblandino.svg?style=flat-square">
-        <img src="https://hits.dwyl.com/alblandino/alblandino/alblandino.svg?style=flat-square" alt="HitCount">
-    </a>
+    <img src="https://hits.dwyl.com/alblandino/alblandino/alblandino.svg?style=flat-square" alt="HitCount" />
+    <img src="https://komarev.com/ghpvc/?username=alblandino" alt="alblandino" />
+</p>
 </p>
 
