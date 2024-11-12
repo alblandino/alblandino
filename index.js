@@ -57,6 +57,7 @@ const readme = `
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 <hr />
 ⏰ Updated on: ${new Date().toUTCString()}
+<hr />
 <p>
     <a href="http://hits.dwyl.com/alblandino/alblandino/alblandino.svg?style=flat-square">
         <img src="https://hits.dwyl.com/alblandino/alblandino/alblandino.svg?style=flat-square" alt="HitCount">
