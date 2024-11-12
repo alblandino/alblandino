@@ -60,7 +60,7 @@ const readme = `
 <hr />
 <p>
     <img src="https://hits.dwyl.com/alblandino/alblandino/alblandino.svg?style=flat-square" alt="HitCount" />
-    <img src="https://komarev.com/ghpvc/?username=alblandino" alt="alblandino" />
+    <img src="https://komarev.com/ghpvc/?username=alblandino&style=flat-square" alt="alblandino" />
 </p>
 </p>
 `
