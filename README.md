@@ -4,7 +4,6 @@
 <p><a href="https://alblandino.com"><img src="https://img.shields.io/badge/-alblandino.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://alblandino.com" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/alblandino/"><img src="https://img.shields.io/badge/-@alblandino-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/alblandino/" alt="LinkedIn Badge"></a></p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <h2>⚡️A Few Quick Facts</h2>
-<img style="width: 25%" align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
 <li>🔭 I’m currently working on <a href="https://chicksx.com/">ChicksX</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>Blockchain</strong>.</li>
@@ -39,9 +38,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 <hr />
-⏳ Year progress { ████████████████████████████▁▁ } 94.47 %
+⏳ Year progress { ████████████████████████████▁▁ } 94.53 %
 <hr />
-⏰ Updated on: Wed, 11 Dec 2024 18:24:47 GMT
+⏰ Updated on: Wed, 11 Dec 2024 23:49:10 GMT
 <hr />
 <p>
     <img src="https://hits.dwyl.com/alblandino/alblandino/alblandino.svg?style=flat-square" alt="HitCount" />
