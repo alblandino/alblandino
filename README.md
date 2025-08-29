@@ -1,5 +1,7 @@
 
-<h2>Hey 👋, I'm <a href="https://alblandino.com/">Joel Jaime</a></h2>
+<h2>Hey 👋, I'm <a href="https://alblandino.com/">
+    Joel Jaime
+</a></h2>
 <p>I'm currently a software engineer at <strong><a href="https://chicksx.com/">ChicksX, Inc</a></strong> and formerly at <strong><a href="https://www.skyairline.com/">Sky Airline</a></strong> based in Santo Domingo. I am working on some side projects, learning a couple new dishes</p>
 <p><a href="https://alblandino.com"><img src="https://img.shields.io/badge/-alblandino.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://alblandino.com" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/alblandino/"><img src="https://img.shields.io/badge/-@alblandino-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/alblandino/" alt="LinkedIn Badge"></a></p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
