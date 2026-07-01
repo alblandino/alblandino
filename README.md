@@ -1,49 +1,72 @@
+<h1 align="center">Hey 👋, I'm Joel Jaime</h1>
 
-<h2>Hey 👋, I'm <a href="https://alblandino.com/">Joel Jaime</a></h2>
-<p>I'm currently a software engineer at <strong><a href="https://chicksx.com/">ChicksX, Inc</a></strong> and formerly at <strong><a href="https://www.skyairline.com/">Sky Airline</a></strong> based in Santo Domingo. I am working on some side projects, learning a couple new dishes</p>
-<p><a href="https://alblandino.com"><img src="https://img.shields.io/badge/-alblandino.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://alblandino.com" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/alblandino/"><img src="https://img.shields.io/badge/-@alblandino-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/alblandino/" alt="LinkedIn Badge"></a></p>
-<p>🍌 Don't forget to get some Potassium 🍌</p>
-<h2>⚡️A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on <a href="https://chicksx.com/">ChicksX</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>Blockchain</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/alblandino">Github</a>.</li>
-<li>📝 I <del>regulary</del> read a lot of books about finance.</li>
-<li>💬 Ping me about <strong>react, vue, javascript, blockchain</strong>.</li>
-<li>📙 Check out my <a href="https://alblandino.com/resume/resume.pdf">resume</a>.</li>
-</ul>
-
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
-</p>
-<hr />
-⏳ Year progress { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 49.76 %
-<hr />
-⏰ Updated on: Wed, 01 Jul 2026 15:18:05 GMT
-<hr />
-<p>
-    <img src="https://hits.dwyl.com/alblandino/alblandino/alblandino.svg?style=flat-square" alt="HitCount" />
-</p>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=4E69C8&center=true&vCenter=true&width=560&lines=Software+Engineer+%40+Babel;Distributed+Systems+%C2%B7+Agentic+AI;Don%27t+forget+your+potassium+%F0%9F%8D%8C" alt="Typing SVG" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://alblandino.com"><img src="https://img.shields.io/badge/Website-4E69C8?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/alblandino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.alblandino.com/cv-es.pdf"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+  <img src="https://komarev.com/ghpvc/?username=alblandino&style=for-the-badge&color=4E69C8&label=Profile+Views" alt="Profile Views" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+Software engineer based in **Santo Domingo, Dominican Republic 🇩🇴**, currently building software at **[Babel](https://babelgroup.com)**. I care about clean architecture, serverless systems, and shipping products that solve real problems.
+
+- 🔭 Currently engineering at **[Babel](https://babelgroup.com)**
+- 🚀 Building **[Apuntalo](https://apuntalo.do)** — an AI-powered personal finance platform for the Dominican market
+- 🤖 Deep into **agentic AI**, **serverless architectures**, and **distributed systems**
+- 📚 I read (a lot) about finance, investing, and building products
+- 🍳 Currently leveling up my cooking
+- 💬 Ask me about **React, Vue, TypeScript, Node.js, serverless & AI integrations**
+- 📫 Reach me through **[alblandino.com](https://alblandino.com)**
+
+> 🍌 Don't forget to get some Potassium 🍌
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+<img src="https://skillicons.dev/icons?i=js,ts,py,go,cs" alt="languages" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,vue,bootstrap,html,css" alt="frontend" />
+
+**Backend & Frameworks**  
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,laravel,django,fastapi,nginx" alt="backend" />
+
+**Databases**  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" alt="databases" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+
+**Messaging & Payments**  
+<img src="https://skillicons.dev/icons?i=rabbitmq" alt="messaging" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+
+**Cloud & DevOps**  
+<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,kubernetes,linux,ubuntu" alt="cloud" /> <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" /> <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS" />
+
+**Architecture**  
+<img src="https://img.shields.io/badge/Microservices-2F855A?style=for-the-badge&logoColor=white" alt="Microservices" /> <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless" /> <img src="https://img.shields.io/badge/X--Road-14837B?style=for-the-badge&logo=xroad&logoColor=white" alt="X-Road" />
+
+**AI & Automation**  
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/OpenCode-0B0B0B?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" /> <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" /> <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" /> <img src="https://img.shields.io/badge/Llama%203.x-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama" /> <img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API" /> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alblandino&hide_border=true&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building things that matter, one commit at a time.</i>
+</p>
