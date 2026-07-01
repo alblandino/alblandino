@@ -34,28 +34,36 @@ Software engineer based in **Santo Domingo, Dominican Republic 🇩🇴**, curre
 ### 🛠️ Tech Stack
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=js,ts,py,go,cs" alt="languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,php,cs" alt="languages" />
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=react,vue,bootstrap,html,css" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=react,vue,bootstrap,html,css,tailwind,babel" alt="frontend" />
 
 **Backend & Frameworks**  
 <img src="https://skillicons.dev/icons?i=nodejs,dotnet,laravel,django,fastapi,nginx" alt="backend" />
 
 **Databases**  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" alt="databases" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" alt="databases" />
 
 **Messaging & Payments**  
-<img src="https://skillicons.dev/icons?i=rabbitmq" alt="messaging" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+<img src="https://skillicons.dev/icons?i=rabbitmq,kafka" alt="messaging" />
 
 **Cloud & DevOps**  
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,kubernetes,linux,ubuntu" alt="cloud" /> <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" /> <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,kubernetes,linux,ubuntu" alt="cloud" />
 
 **Architecture**  
-<img src="https://img.shields.io/badge/Microservices-2F855A?style=for-the-badge&logoColor=white" alt="Microservices" /> <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless" /> <img src="https://img.shields.io/badge/X--Road-14837B?style=for-the-badge&logo=xroad&logoColor=white" alt="X-Road" />
+<img src="https://img.shields.io/badge/Microservices-2F855A?style=for-the-badge&logoColor=white" alt="Microservices" />
+<img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless" />
+<img src="https://img.shields.io/badge/X--Road-14837B?style=for-the-badge&logo=xroad&logoColor=white" alt="X-Road" />
 
 **AI & Automation**  
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/OpenCode-0B0B0B?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" /> <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" /> <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" /> <img src="https://img.shields.io/badge/Llama%203.x-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama" /> <img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API" /> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/OpenCode-0B0B0B?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
+<img src="https://img.shields.io/badge/Llama%203.x-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama" />
+<img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API" />
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 
 ---
 
