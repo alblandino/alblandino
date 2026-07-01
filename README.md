@@ -37,10 +37,10 @@ Software engineer based in **Santo Domingo, Dominican Republic 🇩🇴**, curre
 <img src="https://skillicons.dev/icons?i=js,ts,py,php,cs" alt="languages" />
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=react,vue,bootstrap,html,css,tailwind,babel" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=react,vue,bootstrap,html,css,tailwind,babel,vite,graphql,nextjs" alt="frontend" />
 
 **Backend & Frameworks**  
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,laravel,django,fastapi,nginx" alt="backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,expressjs,dotnet,laravel,django,fastapi,nginx,git,gitlab,github" alt="backend" />
 
 **Databases**  
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" alt="databases" />
