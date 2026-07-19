@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Joel Jaime</h1>
+<h1 align="center">Hey 👋, I'm Alex Blandino</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
